@@ -11,3 +11,4 @@ public class FireMonster extends Monster {
 		return attack;
 	}
 }
+
